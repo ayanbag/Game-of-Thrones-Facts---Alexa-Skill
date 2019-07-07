@@ -1,0 +1,26 @@
+{
+    "name": "game of thrones fact",
+    "version": "2.0.1",
+    "description": "Game of Thrones Facts",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "alexa",
+      "skill",
+      "fact",
+      "game of thrones",
+      "facts",
+      "got",
+      "game of thrones game",
+      "got game",
+      "hbo"
+    ],
+    "author": "Ayan Bag",
+    "license": "Apache-2.0",
+    "dependencies": {
+      "ask-sdk": "^2.0.0"
+    }
+  }
+  
